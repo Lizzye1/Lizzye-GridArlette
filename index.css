@@ -1,0 +1,71 @@
+.contenedor{
+
+display: flex;
+
+}
+
+
+.Primer{
+width: 100%;
+height: 100px;
+background-color: rgb(1, 138, 156);
+
+}
+
+.caja2{
+margin-right: 10px;
+height: 500;
+width: 50%;
+background-color: rgb(23, 80, 96);
+margin-top: 10px;
+
+}
+  
+  .caja3{
+
+   background-color: lightskyblue;
+   height: 600px;
+   width: 50%;
+   margin-top: 10px;
+   
+   
+  }
+
+  .cajarriba {
+    height: 200px;
+    background-color: rgb(32, 141, 177);
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+  }
+
+  .cajabajo {
+    margin-left: 80px;
+    height: 200px;
+    width: 80%;
+    background-color: rgb(32, 141, 177);
+  }
+
+ 
+
+  .penultima{
+
+
+  
+    margin-top: 10px;
+    width: 100%;
+    height: 200px;
+      background-color: rgb(7, 180, 180);
+  }
+
+
+  .ulitmo{
+
+    margin-top: 10px;
+    width: 100%;
+    height: 100px;
+      background-color: rgb(7, 180, 180);
+  }
+  
+  
